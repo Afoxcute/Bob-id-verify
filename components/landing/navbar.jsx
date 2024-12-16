@@ -27,7 +27,7 @@ export const LandingNavbar = () => {
           <div>
             <DiamondPlus />
           </div>
-          <div>BasearpsID</div>
+          <div>Bob-ID-verify</div>
         </Link>
 
         <div>

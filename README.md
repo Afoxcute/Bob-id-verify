@@ -6,7 +6,7 @@
 </p>
 
 <p> Bob-ID-verify Combines all your Institution ID card- library, hostel, ICT, clinic - into One.
- With BasearpsID , access Every Facility Seamlessly and Effectively with a single card.
+ With Bob-ID-verify , access Every Facility Seamlessly and Effectively with a single card.
 We use all EVM chain(choose your choice) for making transcations .
 Our Market Audience are Institutions.
 </p>
